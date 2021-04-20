@@ -1,1 +1,1 @@
-worker: python /website/main.py
+worker: python main.py
